@@ -34,6 +34,11 @@ responses = {
         'you tell me!'
     ],
 
+     'xxxn': [
+        ":(",
+        'you tell me!'
+    ],
+
     "default": ["คือระ ?"]
 }
 
